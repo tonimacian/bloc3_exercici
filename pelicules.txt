@@ -4,4 +4,8 @@ Ghost
 =======
 Titanic
 >>>>>>> origin/main
+<<<<<<< HEAD
 Grease
+=======
+El sentido de la vida
+>>>>>>> 48f5528 (Pelicula El sentido de la vida)
