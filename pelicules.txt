@@ -1,2 +1,6 @@
 La vida de Brian
+<<<<<<< HEAD
 Ghost
+=======
+Titanic
+>>>>>>> origin/main
